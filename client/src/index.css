@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Outfit Light';
+  src: url('./assets/fonts/Outfit-Light.ttf');
+}
+
+@font-face {
+  font-family: 'Outfit Medium';
+  src: url('./assets/fonts/Outfit-Medium.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: 'Outfit Light';
+  color: #FFFFFF;
+  background-color: hsl(223, 30%, 9%);
+  font-size: 15px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
