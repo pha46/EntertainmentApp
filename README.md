@@ -1,4 +1,4 @@
-# Movie and TV Show Search App
+# Entertainment App: Movie and TV Show Search App
 
 Welcome to our Movie and TV Show Search app! This project allows users to search for their favorite movies and TV shows using a user-friendly web application. Our app utilizes several tools in its development, such as React for building the web application, Node.js for creating server-side code, and more.
 
